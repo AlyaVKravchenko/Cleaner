@@ -4,7 +4,6 @@ UKRAINIAN_SYMBOLS = 'абвгдеєжзиіїйклмнопрстуфхцчшщ�
 TRANSLATION = ("a", "b", "v", "g", "d", "e", "je", "zh", "z", "y", "i", "ji", "j", "k", "l", "m", "n", "o", "p", "r", "s", "t", "u",
                "f", "h", "ts", "ch", "sh", "sch", "", "ju", "ja")
 
-
 TRANS = {}
 
 for key, value in zip(UKRAINIAN_SYMBOLS, TRANSLATION):
